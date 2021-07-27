@@ -1,6 +1,6 @@
 ### 👋 Welcome to my github profile!
 # Introduction
-I'm Jason, a third year software engineering student at the University of Ottawa. You can find my various projects below: 
+I'm Jason, a third year software engineering student at the University of Ottawa. You can find some of my projects below! 
 # Some of my projects
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyou044&repo=personalwebsite)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyou044&repo=discordbot)
