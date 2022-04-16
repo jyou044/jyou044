@@ -3,7 +3,8 @@
 #### 💻 Web Development & Design
 #### 📱 Mobile/App Development
 #### 💼 Business Intelligence
-#### 🏦 Financial Technology 
+#### 🏦 Financial Technology
+#### 👨‍💻 Cybersecurity
 # General Interests
 #### 📷 Photography 
 #### ⚾ Baseball 
